@@ -1,0 +1,34 @@
+.box {
+	border: 1px solid black;
+}
+
+.top {
+	width: 50%;
+	height: 200px;
+}
+
+.bottom {
+	width: 33.33%;
+	height: 300px;
+	border: 1px solid black;
+}
+
+.container-one {
+	background-color: green;
+}
+
+.container-two {
+	background-color: blue;
+}
+
+.container-three {
+	background-color: gray;
+}
+
+.container-four {
+	background-color: black;
+}
+
+.container-fifth {
+	background-color: tan;
+}
