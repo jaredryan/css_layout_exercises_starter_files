@@ -3,32 +3,36 @@
 }
 
 .top {
-	width: 50%;
+	width: 800px;
 	height: 200px;
 }
 
 .bottom {
 	width: 33.33%;
 	height: 300px;
-	border: 1px solid black;
 }
 
 .container-one {
 	background-color: green;
+	width: 50%;
 }
 
 .container-two {
 	background-color: blue;
+	width: 50%;
 }
 
 .container-three {
 	background-color: gray;
+	width: 33.33%;
 }
 
 .container-four {
 	background-color: black;
+	width: 33.33%;
 }
 
 .container-fifth {
 	background-color: tan;
+	width: 33.33%;
 }
